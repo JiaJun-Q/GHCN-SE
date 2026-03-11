@@ -53,7 +53,7 @@ tqdm: 4.67.1
 
 - The codes are available in the folder ```GHCN-SE_prediction``` for evaluting reaction prediction performances of GHCN-SE.
 - We can run the script ```GHCN-SE_prediction/main.py``` to conduct 5-fold cross-validations for evaluting reaction prediction performances of GHCN-SE on 108 GEMs.
-- - We can run the script ```GHCN-SE_prediction/test.py``` to test the reaction prediction performances of GHCN-SE on trained GEMs. 
+- We can run the script ```GHCN-SE_prediction/test.py``` to test the reaction prediction performances of GHCN-SE on trained GEMs. 
 - The folder ```Data/Trained model/Trained_model (prediction)/iBWG_1329``` contains the trained GHCN-SE models for 5-fold cross-validations on iBWG_1329 (one of the 108 GEMs).
 - The evaluation results of prediction performances by GHCN-SE are summarized and available in ```Data/Reaction Prediction Evaluation```.
 
